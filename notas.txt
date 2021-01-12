@@ -1,0 +1,8 @@
+Comandos:
+node app crear -d "Pasear al perro"
+
+node app listar
+
+node app actualizar -d "Pasear al perro" -c true
+
+
